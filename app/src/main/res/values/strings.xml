@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Список дел</string>
+
+    <string name="title">Список дел</string>
+
+    <string name="no_todos">Список дел пуст!</string>
+    <string name="add">Добавить</string>
+    <string name="priority">Приоритет</string>
+    <string name="menu_delete">Удалить</string>
+    <string name="todo_summary">Заголовок</string>
+    <string name="todo_description">Описание</string>
+    <string name="todo_edit_summary">Редактировать заголовог</string>
+    <string name="todo_edit_description">Редактировать описание</string>
+    <string name="todo_edit_confirm">Подтвердить</string>
+</resources>
